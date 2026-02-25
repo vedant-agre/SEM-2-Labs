@@ -8,3 +8,9 @@ elif num<0:
     print("Negative")
 else:
     print("zero")
+
+
+
+
+
+    
