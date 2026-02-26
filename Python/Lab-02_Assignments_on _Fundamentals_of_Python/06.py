@@ -1,4 +1,4 @@
-# 24-02-2024
+# 24-02-2026
 # 6. Program to check if a number is even or odd
 
 num = int(input("Enter a number to check: "))

@@ -1,4 +1,4 @@
-# 24-02-2024
+# 24-02-2026
 # 5. Program to find maximum of two numbers
 
 a = int(input("Enter 1st number"))

@@ -1,4 +1,4 @@
-# 24-02-2024
+# 24-02-2026
 
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))

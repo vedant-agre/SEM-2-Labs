@@ -1,4 +1,4 @@
-# 24-02-2024
+# 24-02-2026    
 # 1. Program to Calculate the Area of a circle and triangle
 
 rad = int(input("Enter radius of the circle: "))

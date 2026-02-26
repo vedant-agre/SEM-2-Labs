@@ -1,4 +1,4 @@
-# 24-02-2024
+# 24-02-2026
 # 7. Program to check if a number is positive, negative or 0
 
 num = int(input("Enter a number to check +ve,-ve"))
